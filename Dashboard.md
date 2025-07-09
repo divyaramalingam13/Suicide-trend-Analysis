@@ -1,5 +1,8 @@
 # 📊 Suicide Trends Dashboard – Explanation Guide
 
+
+[Dashboard link](https://public.tableau.com/views/IndiaSuicidecrisisCauseAgeRegionDissectingSuicidePatternsinIndia/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)- 
+India Suicide crisis: Cause, Age & Region: Dissecting Suicide Patterns in India"
 This document explains the structure, visuals, and insights embedded in the Tableau dashboard: **"Suicide Trends in India – A Data Story."**
 
 ---
